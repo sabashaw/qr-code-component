@@ -2,6 +2,14 @@
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
+
+## My Solution
+
+I define img class in HTML and give style to it accordingly. 
+I have not made any changes to the "div class="attributes" I let it as it is in both HTML & CSS
+The rest were the instructions I followed in the README file. 
+
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
